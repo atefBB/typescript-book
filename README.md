@@ -3,6 +3,8 @@ TypeScript Deep Dive
 
 I've been looking at the issues that turn up commonly when people start using TypeScript. This is based on the lessons from [Stack Overflow](http://stackoverflow.com/tags/typescript/topusers) / [DefinitelyTyped](https://github.com/DefinitelyTyped/) and general engagement with the [TypeScript community](https://github.com/TypeStrong/). You can [follow for updates](https://twitter.com/basarat) and [don't forget to ★ on GitHub](https://github.com/basarat/typescript-book) 🌹
 
+كنت أبحث عن المشاكل الشائعة التي تظهر عند البدأ باستعمال TypeScript. هذا العمل هو عصارة دروس من Stack Overflow/DefinitelyTyped ومشاركات عامة مع مجتمع TypsScript. يمكنك أن تبقى على اطلاع على التحديثات على الرابط ولا تنس النجمة على GitHub.
+
 ## Reviews
 
 * Thanks for the wonderful book. Learned a lot from it. ([link](https://www.gitbook.com/book/basarat/typescript/discussions/21#comment-1468279131934))
